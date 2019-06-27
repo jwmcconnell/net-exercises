@@ -1,0 +1,24 @@
+{
+  "name": "net-exercises",
+  "version": "1.0.0",
+  "description": "net exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwmcconnell/net-exercises.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwmcconnell/net-exercises/issues"
+  },
+  "homepage": "https://github.com/jwmcconnell/net-exercises#readme",
+  "devDependencies": {
+    "eslint": "^6.0.1",
+    "jest": "^24.8.0"
+  }
+}
